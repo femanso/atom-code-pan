@@ -4,6 +4,18 @@
   "version": "0.1.1",
   "description": "Pan and scroll code like you do on image editors",
   "keywords": [
+    "scroll",
+    "pan",
+    "zoom",
+    "ide",
+    "mouse",
+    "cursor",
+    "panning",
+    "image editor",
+    "scrolling",
+    "horizontal scroll",
+    "vertical scroll",
+    "mouse scroll"
   ],
   "activationCommands": {
     "atom-workspace": "panning:toggle"
