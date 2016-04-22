@@ -14,9 +14,6 @@ module.exports = Panning =
     if @enabled
       return
 
-    if !@PanningElement
-      @PanningElement = require './panning-element.js'
-
     console.log @PanningElement
 
     # Events subscribed to in atom's system can be easily cleaned up with a CompositeDisposable
