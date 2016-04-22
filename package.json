@@ -1,7 +1,7 @@
 {
   "name": "atom-code-pan",
   "main": "./lib/atom-code-pan",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Pan and scroll code like you do on image editors",
   "keywords": [
     "scroll",
