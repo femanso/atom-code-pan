@@ -1,14 +1,14 @@
 {
-  "name": "panning",
-  "main": "./lib/panning",
-  "version": "0.1.0",
-  "description": "Pan scroll view like you do on image editors",
+  "name": "atom-code-pan",
+  "main": "./lib/atom-code-pan",
+  "version": "0.1.1",
+  "description": "Pan and scroll code like you do on image editors",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "panning:toggle"
   },
-  "repository": "https://github.com/atom/panning",
+  "repository": "https://github.com/femanso/atom-code-pan",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

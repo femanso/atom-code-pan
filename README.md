@@ -1,1 +1,1 @@
-Simple panning scroll view, just like image editors.
+Simple pan and scroll code, just like you do on image editors.
